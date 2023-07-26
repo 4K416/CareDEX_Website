@@ -9,13 +9,13 @@ function Drills() {
       <h1 className="drillsTitle">CareDEX Drill Information</h1>
       <div className="drillsList">
       {
-        DrillsList.map((x) => {
+        DrillsList.map((item) => {
           return (
             <DrillsItem
-              key = {x.key}
-              image={x.image}
-              name={x.name}
-              link={x.link}
+              key = {item.key}
+              image={item.image}
+              name={item.name}
+              link={item.link}
             />
           );
         })
