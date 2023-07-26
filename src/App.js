@@ -7,6 +7,8 @@ import About from "./pages/About";
 import Login from "./pages/Login";
 import FireDrill from './pages/FireDrill';
 import ActiveShooterDrill from './pages/ActiveShooterDrill';
+import TornadoDrill from './pages/TornadoDrill';
+import EarthquakeDrill from './pages/EarthquakeDrill';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
@@ -20,6 +22,9 @@ function App() {
           <Route path="/about" exact component={About} />
           <Route path="/login" exact component={Login} />
           <Route path="/firedrill" exact component={FireDrill} />
+          <Route path="/activeshooterdrill" exact component={ActiveShooterDrill} />
+          <Route path="/earthquakedrill" exact component={EarthquakeDrill} />
+          <Route path="/tornadodrill" exact component={TornadoDrill} />
         </Switch>
         <Footer />
       </Router>

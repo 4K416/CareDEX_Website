@@ -8,21 +8,25 @@ export const DrillsList = [
   {
     name: "Earthquake Drill",
     image: earthquake,
+    link: "earthquakedrill",
     key: 0,
   },
   {
     name: "Wild Fire Drill",
     image: wildfire,
+    link: "firedrill",
     key: 1,
   },
   {
     name: "Active Shooter Dril",
     image: activeshooter,
+    link: "activeshooterdrill",
     key: 2,
   },
   {
     name: "Tornado Drill",
     image: tornado,
+    link: "tornadodrill",
     key: 3,
   },
   

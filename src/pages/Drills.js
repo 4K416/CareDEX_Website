@@ -15,6 +15,7 @@ function Drills() {
               key = {x.key}
               image={x.image}
               name={x.name}
+              link={x.link}
             />
           );
         })
