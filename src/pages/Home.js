@@ -9,7 +9,7 @@ function Home() {
       <div className="headerContainer">
         <h1> Welcome to the CareDEX Portal</h1>
         <p> Disaster recovery and prepardness</p>
-        <Link to="/drils">
+        <Link to="/drills">
           <button> Drill Info </button>
         </Link>
       </div>
