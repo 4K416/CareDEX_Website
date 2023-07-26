@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/CareDEX_Website/static/css/main.785524af.chunk.css",
+    "main.js": "/CareDEX_Website/static/js/main.8e10c50f.chunk.js",
+    "main.js.map": "/CareDEX_Website/static/js/main.8e10c50f.chunk.js.map",
+    "runtime-main.js": "/CareDEX_Website/static/js/runtime-main.6cbf1358.js",
+    "runtime-main.js.map": "/CareDEX_Website/static/js/runtime-main.6cbf1358.js.map",
+    "static/js/2.c0c6bb01.chunk.js": "/CareDEX_Website/static/js/2.c0c6bb01.chunk.js",
+    "static/js/2.c0c6bb01.chunk.js.map": "/CareDEX_Website/static/js/2.c0c6bb01.chunk.js.map",
+    "static/js/3.f4a5b691.chunk.js": "/CareDEX_Website/static/js/3.f4a5b691.chunk.js",
+    "static/js/3.f4a5b691.chunk.js.map": "/CareDEX_Website/static/js/3.f4a5b691.chunk.js.map",
+    "index.html": "/CareDEX_Website/index.html",
+    "static/css/main.785524af.chunk.css.map": "/CareDEX_Website/static/css/main.785524af.chunk.css.map",
+    "static/js/2.c0c6bb01.chunk.js.LICENSE.txt": "/CareDEX_Website/static/js/2.c0c6bb01.chunk.js.LICENSE.txt",
+    "static/media/activeshooter.7a874753.jpg": "/CareDEX_Website/static/media/activeshooter.7a874753.jpg",
+    "static/media/earthquake.9619e025.jpg": "/CareDEX_Website/static/media/earthquake.9619e025.jpg",
+    "static/media/seniors.948e1aa4.jpg": "/CareDEX_Website/static/media/seniors.948e1aa4.jpg",
+    "static/media/techbackground.171b85ce.jpg": "/CareDEX_Website/static/media/techbackground.171b85ce.jpg",
+    "static/media/tornado.e491a855.jpg": "/CareDEX_Website/static/media/tornado.e491a855.jpg",
+    "static/media/wildfire.aa224b2f.jpg": "/CareDEX_Website/static/media/wildfire.aa224b2f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cbf1358.js",
+    "static/js/2.c0c6bb01.chunk.js",
+    "static/css/main.785524af.chunk.css",
+    "static/js/main.8e10c50f.chunk.js"
+  ]
+}
