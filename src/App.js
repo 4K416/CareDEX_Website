@@ -17,14 +17,14 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/drills" exact component={Drills} />
-          <Route path="/about" exact component={About} />
-          <Route path="/login" exact component={Login} />
-          <Route path="/firedrill" exact component={FireDrill} />
-          <Route path="/activeshooterdrill" exact component={ActiveShooterDrill} />
-          <Route path="/earthquakedrill" exact component={EarthquakeDrill} />
-          <Route path="/tornadodrill" exact component={TornadoDrill} />
+          <Route path="CareDEX_Website/" exact component={Home} />
+          <Route path="CareDEX_Website/drills" exact component={Drills} />
+          <Route path="CareDEX_Website/about" exact component={About} />
+          <Route path="CareDEX_Website/login" exact component={Login} />
+          <Route path="CareDEX_Website/firedrill" exact component={FireDrill} />
+          <Route path="CareDEX_Website/activeshooterdrill" exact component={ActiveShooterDrill} />
+          <Route path="CareDEX_Website/earthquakedrill" exact component={EarthquakeDrill} />
+          <Route path="CareDEX_Website/tornadodrill" exact component={TornadoDrill} />
         </Switch>
         <Footer />
       </Router>
