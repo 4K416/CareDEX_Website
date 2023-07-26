@@ -16,11 +16,11 @@ function Navbar() {
         <img src={Logo} />
       </div>
       <div className="rightSide">
-        <Link to="CareDEX_Website/"> Home </Link>
-        <Link to="CareDEX_Website/drills"> My Facility </Link>
-        <Link to="CareDEX_Website/drills"> Drills </Link>
-        <Link to="CareDEX_Website/about"> About </Link>
-        <Link to="CareDEX_Website/login"> Login </Link>
+        <Link to="/"> Home </Link>
+        <Link to="/drills"> My Facility </Link>
+        <Link to="/drills"> Drills </Link>
+        <Link to="/about"> About </Link>
+        <Link to="/login"> Login </Link>
         <button onClick={toggleNavbar}>
           <ReorderIcon />
         </button>
