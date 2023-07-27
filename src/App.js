@@ -9,12 +9,12 @@ import FireDrill from './pages/FireDrill';
 import ActiveShooterDrill from './pages/ActiveShooterDrill';
 import TornadoDrill from './pages/TornadoDrill';
 import EarthquakeDrill from './pages/EarthquakeDrill';
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch, HashRouter } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-      <Router>
+      <HashRouter>
         <Navbar />
         <Switch>
           <Route path="/" exact component={Home} />
@@ -27,7 +27,7 @@ function App() {
           <Route path="/tornadodrill" exact component={TornadoDrill} />
         </Switch>
         <Footer />
-      </Router>
+      </HashRouter>
     </div>
   );
 }
