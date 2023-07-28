@@ -18,7 +18,7 @@ export const DrillsList = [
     key: 1,
   },
   {
-    name: "Active Shooter Dril",
+    name: "Active Shooter Drill",
     image: activeshooter,
     link: "activeshooterdrill",
     key: 2,
