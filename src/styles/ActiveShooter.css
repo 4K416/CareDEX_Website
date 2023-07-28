@@ -1,7 +1,12 @@
-.activeshooter {
-    width: 50%;
-    height: 70%;
-    color:aqua;
-    background-color: black;
-
+.button {
+border: none;
+border-radius: 5px;
+cursor: pointer;
+justify-content: center;
+background-color: #375f7e;
+height: 50px;
+width: 180px;
+color: white;
+text-decoration: none;
+font-size: 20px;
 }
