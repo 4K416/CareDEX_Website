@@ -13,7 +13,8 @@ function Home() {
           <button> Drill Info </button>
         </Link>
       </div>
-    </div>
+      </div>
+    
   );
 }
 
