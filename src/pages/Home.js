@@ -8,7 +8,7 @@ function Home() {
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
       <div className="headerContainer">
         <h1> Welcome to the CareDEX Portal</h1>
-        <p> Disaster prepardness and recovery</p>
+        <p> Disaster preparedness and recovery</p>
         <Link to="/drills">
           <button> Drill Info </button>
         </Link>
