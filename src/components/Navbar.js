@@ -20,7 +20,7 @@ function Navbar() {
         <Link to="/myfacility"> My Facility </Link>
         <Link to="/drills"> Drills </Link>
         <Link to="/about"> About </Link>
-        <Link to="/login"> Login </Link>
+        <Link to="/loginform"> Login </Link>
         <button onClick={toggleNavbar}>
           <ReorderIcon />
         </button>

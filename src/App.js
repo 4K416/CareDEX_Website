@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 import Drills from "./pages/Drills";
 import Home from "./pages/Home";
 import About from "./pages/About";
-import Login from "./pages/Login";
+import LoginForm from "./pages/LoginForm";
 import FireDrill from './pages/FireDrill';
 import ActiveShooterDrill from './pages/ActiveShooterDrill';
 import TornadoDrill from './pages/TornadoDrill';
@@ -21,7 +21,7 @@ function App() {
           <Route path="/" exact component={Home} />
           <Route path="/drills" exact component={Drills} />
           <Route path="/about" exact component={About} />
-          <Route path="/login" exact component={Login} />
+          <Route path="/loginform" exact component={LoginForm} />
           <Route path="/myfacility" exact component={MyFacility} />
           <Route path="/firedrill" exact component={FireDrill} />
           <Route path="/activeshooterdrill" exact component={ActiveShooterDrill} />
