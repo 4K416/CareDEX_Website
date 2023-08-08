@@ -10,7 +10,7 @@ function FileUpload() {
     }
     return (
         <div>
-            <h2>File Uploading in React JS</h2>
+            <h2> Upload your files here:</h2>
             <form>
                 <input type="file" name="file" onChange={handleFile}/>
                 <button>Upload</button>
